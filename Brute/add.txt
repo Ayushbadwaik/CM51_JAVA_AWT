@@ -1,1 +1,3 @@
+Here gives the path of passowrd text file,
+example :
 C:\Users\ayush\Downloads\oop\Brute\password.txt 
